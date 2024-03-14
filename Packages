@@ -1,0 +1,64 @@
+Package: libboost1.84.0
+Source: boost1.84
+Version: 1.84.0
+Architecture: armhf
+Maintainer: Alejandro Mata <alejandromata@nureva.com>
+Depends: libstdc++ (>= 9.4.0), libgcc-s1 (>= 9.4.0), libc6 (>= 2.4)
+Filename: ./libboost1.84.0_armhf.deb
+Size: 4528864
+MD5sum: 084ff582b1d177272118eccd2d837ec5
+SHA1: e1aaad148ec5df0890df3fcb524829bf18547b19
+SHA256: 08f87a93e42bdeba46be3a218f8c19cda99ff254ecadb38c20f101684372c2ca
+Section: universe/libs
+Priority: optional
+Homepage: http://www.boost.org/libs
+Description: Boost 1.84 for ubuntu linux that is capped at 1.74
+
+Package: libboost1.84.0
+Source: boost1.84
+Version: 1.84.0
+Architecture: x86_64
+Maintainer: Alejandro MAta <alejandromata@nureva.com>
+Depends: libstdc++ (>= 9.4.0), libgcc-s1 (>= 9.4.0), libc6 (>= 2.4)
+Filename: ./libboost1.84.0_amd64.deb
+Size: 4716672
+MD5sum: 98789f3e54f612bdd1b7120f3f06f577
+SHA1: 267250730a0b06bf81f860c437137e429896e8f5
+SHA256: b4e900b984b997225c976c93c4108039cc4ff807d55cc3148b8865c56ae203ad
+Section: universe/libs
+Priority: optional
+Homepage: http://www.boost.org/libs
+Description: Boost 1.84 for ubuntu linux that is capped at 1.74
+
+Package: libboost1.84.0-dev
+Source: boost1.84
+Version: 1.84.0
+Architecture: x86_64
+Maintainer: Alejandro Mata <alejandromata@nureva.com>
+Depends: libstdc++ (>= 9.4.0), libgcc-s1 (>= 9.4.0), libc6 (>= 2.4)
+Filename: ./libboost1.84.0-dev_amd64.deb
+Size: 10359238
+MD5sum: 043ec9f2ccd379221aacd57b4136ee9c
+SHA1: 3806893aece1bc026eafe49441e7d74b86fae15f
+SHA256: 2cf33fd5eb853b7a373deca964cdcabf841aec799568cb993c20d0e1f067b329
+Section: universe/libs
+Priority: optional
+Homepage: http://www.boost.org/libs
+Description: Boost 1.84 for ubuntu linux that is capped at 1.74
+
+Package: libboost1.84.0-dev
+Source: boost1.84
+Version: 1.84.0
+Architecture: armhf
+Maintainer: Alejandro Mata <alejandromata@nureva.com>
+Depends: libstdc++ (>= 9.4.0), libgcc-s1 (>= 9.4.0), libc6 (>= 2.4)
+Filename: ./libboost1.84.0-dev_armhf.deb
+Size: 10315296
+MD5sum: a60bfc1c1dd821f0c2d870c463305236
+SHA1: e6820b03cac7a0fc24ae352d7f1ecb983f008404
+SHA256: a54d443d7afd795278fdabf9ea33d86b40b35b95e3e1dcac5fdeee130aced64e
+Section: universe/libs
+Priority: optional
+Homepage: http://www.boost.org/libs
+Description: Boost 1.84 for ubuntu linux that is capped at 1.74
+
